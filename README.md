@@ -124,5 +124,5 @@ an issue or submit a pull request.
 
 ## 📬 Contact
 For questions or collaboration:
-- GitHub: `Shilpachhatani`
-- Email: `shilpachhatani669@gmail.com`
+- GitHub: `yashkumar23`
+- Email: `yashchhatani7@gmail.com`
